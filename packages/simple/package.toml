@@ -1,0 +1,8 @@
+name = "simple"
+description = "Simple package"
+homepage = "https://github.com/pack-it"
+versions = ["0.0.1"]
+
+[supported_versions]
+unix = "0.0.1"
+windows = "0.0.1"

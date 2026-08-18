@@ -1,0 +1,5 @@
+name = "packit-test-repository"
+description = "The test repository of Packit."
+license = "Apache-2.0"
+maintainers = ["The Packit Team"]
+required_packit_version = "0.0.4"

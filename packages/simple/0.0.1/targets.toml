@@ -1,0 +1,13 @@
+version = "0.0.1"
+license = "simple LICENSE"
+dependencies = []
+build_dependencies = []
+
+[source]
+url = "https://raw.githubusercontent.com/pack-it/core/main/test-packages/simple/0.0.1"
+checksum = "ed10c9aaeea0fb740eb6113768e4c2db9ebeb86083f13fb62b98cf957271ae3f"
+size = 577
+
+[targets.unix]
+
+[targets.windows]
