@@ -4,10 +4,11 @@ dependencies = []
 build_dependencies = []
 
 [source]
-url = "https://raw.githubusercontent.com/pack-it/core/main/test-packages/simple/0.0.1"
+url = "https://raw.githubusercontent.com/pack-it/test-repository/main/test-packages/simple-0.0.1.tar.gz"
 checksum = "ed10c9aaeea0fb740eb6113768e4c2db9ebeb86083f13fb62b98cf957271ae3f"
 size = 577
 
 [targets.unix]
 
 [targets.windows]
+build_requirements = ["msvc"]
